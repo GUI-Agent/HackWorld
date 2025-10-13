@@ -1,0 +1,17 @@
+model_args:
+  agent_type: "claude"
+  action_space: "pyautogui"  # 动作空间类型
+  observation_type: "screenshot_a11y_tree"  # 观察类型（与命令行参数一致）
+  max_trajectory_length: 40      # 最大轨迹长度
+  model_name: "litellm:bedrock/us.anthropic.claude-opus-4-20250514-v1:0"  # Bedrock模型ID
+  base_url: http://127.0.0.1:4000                  
+  api_key: dummy 
+
+  infer_mode: default       # 推理模式
+  prompt_style: claude_style  # Prompt风格
+  language: "en"                # 语言
+  history_n: 5                  # 历史对话轮次
+  temperature: 0.0              # 温度系数（控制随机性）
+  top_p: 0.9                  # 核采样参数
+  top_k: -1                     #  top-k采样参数
+  max_tokens: 5000              # 最大生成Token数

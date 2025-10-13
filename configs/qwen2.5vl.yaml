@@ -1,0 +1,17 @@
+model_args:
+  agent_type: "prompt"
+  action_space: "pyautogui"  # 动作空间类型
+  observation_type: "screenshot"  # 观察类型（与命令行参数一致）
+  max_trajectory_length: 40      # 最大轨迹长度
+  model_name: "Qwen/Qwen2.5-VL-72B-Instruct"
+  base_url: http://ec2-35-88-109-159.us-west-2.compute.amazonaws.com:18000/v1                
+  api_key: dummy 
+
+  infer_mode: default       # 推理模式
+  prompt_style: claude_style  # Prompt风格
+  language: "en"                # 语言
+  history_n: 5                  # 历史对话轮次
+  temperature: 0.0              # 温度系数（控制随机性）
+  top_p: 0.9                  # 核采样参数
+  top_k: -1                     #  top-k采样参数
+  max_tokens: 5000              # 最大生成Token数

@@ -1,0 +1,16 @@
+# litellm_config.yaml
+litellm_settings:
+  drop_params: true
+  api_keys:
+    - sk-no-key-needed
+
+# 注册 Claude 3.5 Sonnet (via Bedrock)
+claude-bedrock:
+  model_name: claude-3-sonnet
+  provider: bedrock
+  aws_region_name: us-west-2
+  model_id: anthropic.claude-3-5-sonnet-20240620-v1:0
+  # 其他可选参数
+  max_tokens: 8192
+  temperature: 0.7
+  top_p: 0.9

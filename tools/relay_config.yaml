@@ -1,0 +1,64 @@
+general_settings:
+  drop_params: true
+  proxy_server_timeout: 600
+
+model_list:
+  - model_name: haiku
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-3-haiku-20240307-v1:0
+
+  - model_name: sonnet
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-3-sonnet-20240229-v1:0
+
+  - model_name: sonnet35v1
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-3-5-sonnet-20240620-v1:0
+
+  - model_name: sonnet35v2
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-3-5-sonnet-20241022-v2:0
+
+  - model_name: sonnet37v1
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-3-7-sonnet-20250219-v1:0
+
+  - model_name: sonnet37v1_with_thinking
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-3-7-sonnet-20250219-v1:0
+
+  - model_name: sonnet4
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-sonnet-4-20250514-v1:0
+
+  - model_name: opus4
+    litellm_provider: bedrock
+    litellm_params:
+      model: bedrock/us.anthropic.claude-opus-4-20250514-v1:0
+
+  # - model_name: mistral
+  #   litellm_provider: bedrock
+  #   litellm_params:
+  #     model: mistral.mistral-large-2402-v1:0
+
+  # - model_name: ds_r1
+  #   litellm_provider: bedrock
+  #   litellm_params:
+  #     model: deepseek.r1-v1:0
+
+  # - model_name: deepseek-r1-0528
+  #   litellm_provider: bedrock
+  #   litellm_params:
+  #     model: converse/deepseek-llm-r1-0528
+
+  # - model_name: qwen3-32b
+  #   litellm_provider: together_ai  # change if using another provider
+  #   litellm_params:
+  #     model: Qwen/Qwen3-32B

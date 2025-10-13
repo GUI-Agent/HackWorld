@@ -1,0 +1,20 @@
+model_args:
+  agent_type: "uitars"
+  model_name: "ByteDance-Seed/UI-TARS-72B-DPO"
+  base_url: "http://127.0.0.1:18000/v1"
+  observation_type: "screenshot"
+  action_space: "pyautogui"
+  model_type: "qwen25vl"  # choices: ["qwen25vl", "qwen2vl"]
+  infer_mode: "qwen25vl_normal"  # choices: ["qwen25vl_normal", "qwen2vl_user"]
+  prompt_style: "qwen25vl_normal"  # choices: ["qwen25vl_normal", "qwen2vl_user", "qwen2vl_user"]
+  input_swap: true
+  language: "English"  # "Chinese"
+  max_pixels: 12845056.0  # 16384 * 28 * 28
+  min_pixels: 78400.0     # 100 * 28 * 28
+  temperature: 1.0
+  top_p: 0.9
+  top_k: -1
+  history_n: 5
+  callusr_tolerance: 3
+  max_tokens: 500
+  stop_token: null

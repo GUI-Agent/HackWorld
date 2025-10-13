@@ -1,0 +1,290 @@
+{
+    "cb-gla-web-glacierexchange": {
+        "benchmark": "cybench",
+        "event": "GLA",
+        "category": "web",
+        "challenge": "GlacierXchange",
+        "path": "web/GlacierExchange",
+        "year": ""
+    },
+    "cb-hkc-web-05-motp": {
+        "benchmark": "cybench",
+        "event": "HKC",
+        "category": "web",
+        "challenge": "motp",
+        "path": "web/05-motp",
+        "year": ""
+    },
+    "cb-hkc-web-22-back-to-the-past": {
+        "benchmark": "cybench",
+        "event": "HKC",
+        "category": "web",
+        "challenge": "back to the past",
+        "path": "web/22-back-to-the-past",
+        "year": ""
+    },
+    "cb-htb-web-easy_labyrinth_linguist": {
+        "benchmark": "cybench",
+        "event": "HTB",
+        "category": "web",
+        "challenge": "Labyrinth Linguist",
+        "path": "web/Labyrinth Linguist",
+        "year": ""
+    },
+    "cb-htb-web-medium_locktalk": {
+        "benchmark": "cybench",
+        "event": "HTB",
+        "category": "web",
+        "challenge": "LockTalk",
+        "path": "web/LockTalk",
+        "year": ""
+    },
+    "cb-htb-web-very_easy_flag_command": {
+        "benchmark": "cybench",
+        "event": "HTB",
+        "category": "web",
+        "challenge": "Flag Command",
+        "path": "web/Flag Command",
+        "year": ""
+    },
+    "cb-s23-web-chunky": {
+        "benchmark": "cybench",
+        "event": "S23",
+        "category": "web",
+        "challenge": "chunky",
+        "path": "web/chunky",
+        "year": ""
+    },
+    "cb-s23-web-frog-waf": {
+        "benchmark": "cybench",
+        "event": "S23",
+        "category": "web",
+        "challenge": "frog-waf",
+        "path": "web/frog-waf",
+        "year": ""
+    },
+    "2013f-web-historypeats": {
+        "year": "2013",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "historypeats",
+        "path": "web/historypeats",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2013q-web-guess_harder": {
+        "year": "2013",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "Guess Harder",
+        "path": "web/Guess Harder",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2014f-web-webroot": {
+        "year": "2014",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "webroot",
+        "path": "web/webroot",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2014q-web-silkgoat": {
+        "year": "2014",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "silkgoat",
+        "path": "web/silkgoat",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2016f-web-cloudb": {
+        "year": "2016",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "cloudb",
+        "path": "web/cloudb",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2016f-web-seizure_cipher": {
+        "year": "2016",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "Seizure-Cipher",
+        "path": "web/Seizure-Cipher",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2016q-web-i_got_id": {
+        "year": "2016",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "I Got Id",
+        "path": "web/I Got Id",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2016q-web-mfw": {
+        "year": "2016",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "MFW",
+        "path": "web/MFW",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2015q-web-k_stairs": {
+        "year": "2015",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "k_stairs",
+        "path": "web/k_stairs",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2015q-web-throwback": {
+        "year": "2015",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "throwback",
+        "path": "web/throwback",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "ic-web-16": {
+        "benchmark": "InterCode_CTF",
+        "category": "web",
+        "challenge": "Challenge #16",
+        "challenge_id": "16",
+        "path": "web/16",
+        "year": ""
+    },
+    "ic-web-54": {
+        "benchmark": "InterCode_CTF",
+        "category": "web",
+        "challenge": "Challenge #54",
+        "challenge_id": "54",
+        "path": "web/54",
+        "year": ""
+    },
+    "2021q-web-no_pass_needed": {
+        "year": "2021",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "no-pass-needed",
+        "path": "web/no-pass-needed",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2021q-web-poem_collection": {
+        "year": "2021",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "poem-collection",
+        "path": "web/poem-collection",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2021q-web-securinotes": {
+        "year": "2021",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "securinotes",
+        "path": "web/securinotes",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2021q-web-gatekeeping": {
+        "year": "2021",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "gatekeeping",
+        "path": "web/gatekeeping",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2020f-web-picgram": {
+        "year": "2020",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "picgram",
+        "path": "web/picgram",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2023f-web-shreeramquest": {
+        "year": "2023",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "ShreeRamQuest",
+        "path": "web/ShreeRamQuest",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2023f-web-triathlon_or_sprint": {
+        "year": "2023",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "triathlon_or_sprint",
+        "path": "web/triathlon_or_sprint",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2023q-web-cookie_injection": {
+        "year": "2023",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "cookie-injection",
+        "path": "web/cookie-injection",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2023q-web-philanthropy": {
+        "year": "2023",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "philanthropy",
+        "path": "web/philanthropy",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2023q-web-rainbow_notes": {
+        "year": "2023",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "rainbow-notes",
+        "path": "web/rainbow-notes",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2023q-web-smug_dino": {
+        "year": "2023",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "smug-dino",
+        "path": "web/smug-dino",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2019f-web-biometric": {
+        "year": "2019",
+        "event": "CSAW-Finals",
+        "category": "web",
+        "challenge": "biometric",
+        "path": "web/biometric",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2017q-web-littlequery": {
+        "year": "2017",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "littlequery",
+        "path": "web/littlequery",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2017q-web-orangev2": {
+        "year": "2017",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "orangev2",
+        "path": "web/orangev2",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2017q-web-orange": {
+        "year": "2017",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "orange",
+        "path": "web/orange",
+        "benchmark": "nyu_ctf_bench"
+    },
+    "2017q-web-notmycupofcoffe": {
+        "year": "2017",
+        "event": "CSAW-Quals",
+        "category": "web",
+        "challenge": "notmycupofcoffe",
+        "path": "web/notmycupofcoffe",
+        "benchmark": "nyu_ctf_bench"
+    }
+}

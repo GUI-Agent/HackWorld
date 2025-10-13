@@ -1,0 +1,40 @@
+Project Name,Backend Language,Backend Framework,Frontend Framework,Remarks
+05-motp,PHP,Native PHP,Bootstrap,PHP-based OTP authentication system with Bootstrap UI
+16,Unknown,Unknown,Unknown,Empty placeholder project with only challenge.json
+22-back-to-the-past,None,Static HTML,HTML/CSS,Static HTML website with embedded YouTube videos and CSS styling
+54,Unknown,Unknown,Unknown,Empty placeholder project with only challenge.json
+Flag Command,Python,Flask,HTML/CSS,Flask web application with custom blueprints and templates
+GlacierExchange,Python,Flask,HTML/CSS,Flask web application with REST API and cryptocurrency exchange functionality
+Guess Harder,PHP,Native PHP,HTML,Simple PHP application with basic HTML
+I Got Id,C,CGI,HTML,C-based CGI application with static HTML
+Labyrinth Linguist,Java,Spring Boot,HTML/CSS,Java Spring Boot application with FreeMarker templating and Maven build
+LockTalk,Python,Flask,HTML/CSS,Flask application with modular blueprint structure and API routes
+MFW,PHP,Native PHP,Bootstrap,PHP application with Bootstrap frontend and template system
+Seizure-Cipher,Python,Flask,HTML/JavaScript,Flask application with template rendering and obfuscated JavaScript frontend
+ShreeRamQuest,JavaScript,Express.js,HTML/CSS,Node.js Express application with MongoDB and session management
+biometric,Python,Flask,HTML/CSS,Flask-based biometric authentication system with client-server architecture
+chunky,Python,Flask,HTML/CSS,"Multi-service application: Flask (Python) blog, Go microservice (rcache), Nginx reverse proxy"
+cloudb,PHP,Native PHP,HTML/CSS,PHP application with MySQL database integration and API endpoints
+cookie-injection,Python,Flask,HTML/CSS,Flask application with Jinja2 templates for SQL injection demonstration
+frog-waf,Java,Spring Boot,Thymeleaf,Java Spring Boot application with Gradle build system and H2 database
+gatekeeping,Python,Native Python,HTML/CSS,Python-based authentication system with template rendering
+historypeats,PHP,FuelPHP,HTML/CSS,PHP application using FuelPHP framework with Composer dependency management
+k_stairs,Python,Native Python,HTML/CSS,Python-based game application with database integration
+littlequery,PHP,Native PHP,HTML/JavaScript,PHP application for database query demonstration with JavaScript frontend
+no-pass-needed,JavaScript,Express.js,EJS,Node.js Express application with EJS templating and database migration
+notmycupofcoffe,Java,Java Web (Maven),HTML/CSS,Java web application built with Maven and WAR packaging
+orange,JavaScript,Express.js,HTML,Node.js Express server with Python backend component for poem processing
+orangev2,JavaScript,Express.js,HTML,Enhanced Node.js Express server with Python backend and improved functionality
+philanthropy,JavaScript,Express.js,React,Multi-service application: React frontend (Vite), Flask backend (PostgreSQL), Nginx
+picgram,Python,Flask,HTML/CSS,Flask application for image handling with SQLite database
+poem-collection,PHP,Native PHP,HTML/CSS,Apache-served PHP application with file inclusion vulnerabilities
+rainbow-notes,JavaScript,Express.js,Bootstrap,Node.js Express bot application with static HTML frontend using Bootstrap
+scp-terminal,Python,Native Python,None,Python-based SCP terminal simulation (console application)
+securinotes,JavaScript,Meteor.js,Meteor UI,Full-stack Meteor.js application with MongoDB and real-time features
+sharkfacts,Python,Native Python,HTML,Simple Python web server with basic HTML responses
+silkgoat,Python,Flask,HTML/CSS,Flask application with template rendering and file upload functionality
+smug-dino,JavaScript,Express.js,HTML/CSS,Node.js Express application with file upload functionality and custom Nginx config
+snailrace1,Python,Flask,HTML/JavaScript,Flask application for snail racing game with Redis session management and WebSocket-like features
+throwback,Python,Flask (CTFd),HTML/CSS,Flask application based on CTFd framework with challenge management system
+triathlon_or_sprint,JavaScript,Express.js,Vite,Node.js Express backend with Vite frontend build system and FTP components
+webroot,PHP,AMFPHP,HTML/JavaScript,PHP application using AMFPHP framework for Flash remoting services with JavaScript client
