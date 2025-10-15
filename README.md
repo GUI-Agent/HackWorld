@@ -1,5 +1,5 @@
 ## 📢 Updates
-- 2025-10-10: We released our [paper](), Check it out!
+- 2025-10-10: We released our [paper](https://www.arxiv.org/pdf/2510.12200), Check it out!
 
 ## 💾 Installation
 Currently only VMWare env is supported. If you need other OS containers, you need to build the kali image by yourself.
@@ -54,7 +54,7 @@ If you find this environment useful, please consider citing our work:
       title={HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities},
       author={Xiaoxue Ren and Penghao Jiang and Kaixin Li and Zhiyong Huang and Xiaoning Du and Jiaojiao Jiang and Zhenchang Xing and Jiamou Sun and Terry Yue Zhuo},
       year={2025},
-      eprint={2510.XXXXX},
+      eprint={2510.12200},
       archivePrefix={arXiv},
       primaryClass={cs.CR}
 }
